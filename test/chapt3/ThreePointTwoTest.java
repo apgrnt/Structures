@@ -1,9 +1,11 @@
 package chapt3;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 import org.junit.Test;
 
+import chapt3.ThreePointTwo;
 import chapt3.ThreePointTwo.Plate;
 
 public class ThreePointTwoTest {

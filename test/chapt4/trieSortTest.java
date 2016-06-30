@@ -2,6 +2,7 @@ package chapt4;
 
 import static org.junit.Assert.*;
 import glebe.andrew.tree.SortedTree;
+import glebe.andrew.tree.TrieTreeSort;
 
 import org.junit.Test;
 
